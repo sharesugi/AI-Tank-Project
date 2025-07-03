@@ -31,6 +31,9 @@
 |객체 인식|YOLOv8|
 |포탑 제어|XGBoost + DNN|
 
+![KakaoTalk_20250703_164305623](https://github.com/user-attachments/assets/2a783122-6182-4be7-bbaa-210d96c175b5)
+
+
 ## 📌 실행 전 유의사항
 시뮬레이터 해상도 조정 (1920 x 1080)
 
