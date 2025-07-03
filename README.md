@@ -1,6 +1,10 @@
 # YOLO–LiDAR 융합 기반 자동 조준 및 주행 시스템
 ~~여기 논문이나 피피티 파일 첨부~~
 
+## ✨ 최종 시연 영상
+
+[![Video Label](http://img.youtube.com/vi/p360diqBGcQ/maxresdefault.jpg)](https://youtu.be/p360diqBGcQ)
+
 ## 📂 루트 디렉토리 및 주요 파일 구조
 ```
 📁 루트 폴더
