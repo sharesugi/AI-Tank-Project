@@ -31,15 +31,17 @@
 |객체 인식|YOLOv8|
 |포탑 제어|XGBoost + DNN|
 
+## 🧱 아키텍쳐
+
 ![KakaoTalk_20250703_164305623](https://github.com/user-attachments/assets/2a783122-6182-4be7-bbaa-210d96c175b5)
 
 
 ## 📌 실행 전 유의사항
-시뮬레이터 해상도 조정 (1920 x 1080)
+정확한 사격을 위해 시뮬레이터 해상도 조정 (1920 x 1080)
 
 ![image](https://github.com/user-attachments/assets/dfa199bf-9df6-4a8c-b1f5-7ebca06f9661)
 
-속성 -> 대상 경로 뒤 아래 해상도 값 입력
+속성 → 대상 경로 뒤 아래 해상도 값 입력
 ```
 -screen-width 1920 -screen-height 1080
 ```
