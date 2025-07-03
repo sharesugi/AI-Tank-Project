@@ -3,6 +3,7 @@
 
 ## ✨ 최종 시연 영상
 
+[![Video Label](http://img.youtube.com/vi/p360diqBGcQ/maxresdefault.jpg)](https://youtu.be/p360diqBGcQ)
 
 ## 📂 루트 디렉토리 및 주요 파일 구조
 ```
