@@ -1,6 +1,6 @@
 # ✨ 사격 시연 영상
 
-<iframe width="1203" height="643" src="https://www.youtube.com/embed/jnq8N-Le7EA" title="사격 시연 영상" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Video Label](http://img.youtube.com/vi/jnq8N-Le7EA/maxresdefault.jpg)](https://youtu.be/jnq8N-Le7EA)
 
 # 🧠 YOLO 모델 학습
 
