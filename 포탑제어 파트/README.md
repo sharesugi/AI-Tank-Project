@@ -89,7 +89,7 @@
   |DNN + XGBoost|0.2531|0.5051|0.9977|
   |DNN + XGBoost (optuna)|0.1563 ✅|0.3552 ✅|0.9988 ✅|
 
- ### 📌 5. 알고리즘 작동 방식
+ # 🧠 알고리즘 작동 방식
 
  ![사격 ppt](https://github.com/user-attachments/assets/6abcdb3e-78ea-44ea-8f1f-2ad73fa6863a)
 
