@@ -21,6 +21,9 @@
 
 ![image](https://github.com/user-attachments/assets/2148c16a-5f41-4123-8a76-c79fd7e8311a)
 
+
+
+
 # 🧠 알고리즘 작동 방식
 
 ![주행 pptmp4](https://github.com/user-attachments/assets/d5f985e6-dbe2-45a4-bef2-3da574696c39)
