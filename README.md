@@ -45,7 +45,7 @@
 
 ![image](https://github.com/user-attachments/assets/dfa199bf-9df6-4a8c-b1f5-7ebca06f9661)
 
-속성 → 대상 경로 뒤 아래 해상도 값 입력
+속성 → 대상 경로 뒤 아래 해상도 값 입력!
 ```
 -screen-width 1920 -screen-height 1080
 ```
